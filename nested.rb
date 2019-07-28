@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-
+  return programmer_hash
 end
 
 def alan_kay_is_known_for
